@@ -1,0 +1,9 @@
+.w, .r{
+display: inline-block;
+width: 20px;
+height: 20px;
+}
+
+.r{
+    background-color: #fb0405;
+}
